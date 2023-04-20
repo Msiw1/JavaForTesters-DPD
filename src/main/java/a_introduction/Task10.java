@@ -6,6 +6,8 @@ public class Task10 {
     }
 
     public static String bookDetails(String title, String author, String illustrator) {
-        return "";
+        return title + ", autorstwa " + author + " ilustrowany przez " + illustrator;
     }
 }
+
+// Hobbit, autorstwa JR. Tolkien wydany przez Wydawnictwo X
